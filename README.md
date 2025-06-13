@@ -62,6 +62,10 @@ This project is a feature-rich notes keeping web application developed by Rishik
 
 ---
 
+[![Watch the video](https://img.youtube.com/vi/E294N26e4-A/0.jpg)](https://youtu.be/E294N26e4-A)
+
+---
+
 ## License
 
 This project is for educational purposes.
